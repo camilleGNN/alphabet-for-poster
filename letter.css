@@ -1,0 +1,166 @@
+
+/* this is for o  -----------------------------------------*/
+
+.outer-circle {
+	color: black;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 2px;
+  width: 250px;
+  height: 250px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+
+.inner-circle {
+	content: '';
+  position: absolute;
+  margin-left: 8px;
+  margin-top: 3px;
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  border: solid 4px currentColor; 
+}
+
+
+/* this is for a  -----------------------------------------*/
+
+.a-outer-circle {
+	color: black;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 3px;
+  width: 250px;
+  height: 250px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+
+.a-stroke {
+	color: black;
+  position: absolute;
+  margin-left: 660px;
+  margin-top: 140px;
+  width: 10px;
+  height: 130px;
+  background-color: currentColor;
+}
+
+
+.a-inside-circle {
+	content: '';
+  position: absolute;
+  margin-left: 410px;
+  margin-top: 3px;
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  border: solid 4px currentColor;
+}
+
+
+/* this is for b -----------------------------------------*/
+
+.b-circle{
+	color: black;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 400px;
+  width: 250px;
+  height: 250px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+
+.b-stroke {
+	color: black;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 350px;
+  width: 10px;
+  height: 320px;
+  background-color: currentColor;
+}
+
+
+.b-inside-circle {
+	content: '';
+  position: absolute;
+  margin-left: 3px;
+  margin-top: 55px;
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  border: solid 4px currentColor;
+}
+
+
+/* this is for n  -----------------------------------------*/
+
+.n-curve {
+  color: black;
+  position: absolute;
+  margin-left: 525px;
+  margin-top: 4px;
+  width: 12px;
+  height: 245px;
+  /* below taken fromc ss icon.space*/
+  border-radius: 500px 0 0 500px;
+  border-left: solid 12px currentColor;
+  border-top: solid 12px currentColor;
+  border-bottom: solid 12px currentColor; 
+  /*until here*/
+  transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+  
+
+.n-left-stroke {
+  color: black;
+  position: absolute;
+  margin-left: 400px;
+  margin-top: 4px;
+  width: 12px;
+  height: 320px;
+  background-color: currentColor;
+}
+
+.n-right-stroke {
+  color: black;
+  position: absolute;
+  margin-left: 660px;
+  margin-top: 80px;
+  width: 12px;
+  height: 245px;
+  background-color: currentColor;
+}
+
+/* this is for o  -----------------------------------------*/
+
+.o {
+ color: black;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 2px;
+  width: 250px;
+  height: 250px;
+  border: solid 10px currentColor;
+  border-radius: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
